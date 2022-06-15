@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ljlclark
-- 👀 I’m interested in C#, XML, PHP, HTML, CSS and Javascript
+- 👀 I’m interested in C#, WinForms, ADO.NET, XML, PHP, HTML, CSS and Javascript
 - 🌱 I’m currently learning Git, GitHub, PHP and more about HTML, CSS and Javascript.
 - 💞️ I’m may collaborate later when I understand Git and GitHub a little better.
 - 📫 
